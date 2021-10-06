@@ -14,7 +14,7 @@ This will all be a new experience for me, I've never so much as owned a goldfish
 
 | ![](/reef/images/PXL_20211003_235813325.jpg){:width="100%"} |
 
-I bought a used Red Sea Reefer 170 from a guy on Facebook marketplace.
+I bought a used Red Sea Reefer 170 from a really cool guy on Facebook marketplace.
 The deal included pretty much every component needed for the tank:
 * Red Sea Reefer 170
 * Protein skimmer
