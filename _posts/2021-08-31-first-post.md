@@ -17,13 +17,14 @@ This will all be a new experience for me, I've never so much as owned a goldfish
 I bought a used Red Sea Reefer 170 from a guy on Facebook marketplace.
 The deal included pretty much every component needed for the tank:
 * Red Sea Reefer 170
-* Protein skimmer
+* Protein skimmer (Simplicity 120DC)
 * Return pump (EFLUX 6010)
 * Bioreactor
 * RODI filtration system (IceCap 4 stage smart RODI)
 * Dosing pump
 * Lamp for main tank
 * Smaller lamp for sump
+* Wavemaker (VorTech MP10)
 * A bunch of miscellaneous items, like salt, minerals, hoses, etc
 
 I'll try to remember to give more detailed descriptions of these items as I go, since I don't really know anything about the brands or the specifications.
