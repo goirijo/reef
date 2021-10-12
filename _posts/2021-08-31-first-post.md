@@ -19,7 +19,7 @@ The deal included pretty much every component needed for the tank:
 * Red Sea Reefer 170
 * Protein skimmer (Simplicity 120DC)
 * Return pump (EFLUX 6010)
-* Bioreactor
+* Bioreactor (Aquatop brand, not sure which model)
 * RODI filtration system (IceCap 4 stage smart RODI)
 * Dosing pump
 * Lamp for main tank

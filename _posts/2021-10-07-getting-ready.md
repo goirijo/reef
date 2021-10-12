@@ -39,4 +39,12 @@ I wonder how the previous owner managed.
 
 | ![](/reef/images/PXL_20211007_054256663.jpg){:width="100%"} | ![](/reef/images/PXL_20211007_054313592.jpg){:width="100%"} |
 
+## Broken reactor
+I tried fitting the bioreactor in the sump but ended up giving up.
+I don't think I need to worry about it now anyway, and when I tested the motor out in the sink, it seems like it's totally busted anyway.
+The reactor seems like a cool device though, and the chemical engineer inside me is looking forward to a packed column scrubbing out water.
+The device looks pretty simple: I think it just pumps water from the sump through some filtering media in the column before releasing it back.
+I might have to construct some scaffolding next to the sump to make room for stuff.
+
+| ![](/reef/images/PXL_20211008_021448836.jpg){:width="100%"} | ![](/reef/images/PXL_20211008_032723884.jpg){:width="100%"}
 
